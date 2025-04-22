@@ -1,5 +1,7 @@
 # belfer_center_dets_index_2025
 
+Link to website https://lkolodziej96.github.io/belfer_center_dets_index_2025/
+
 ## Requirements
 
 Node.js - v23.7.0
